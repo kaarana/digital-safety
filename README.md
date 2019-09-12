@@ -1,3 +1,3 @@
 # digital-safety
 
-This repository contains revisions of the "Digital Safety Hygiene" guide.
+This repository contains iterations of the "Digital Safety Hygiene" guide published by Kaarana.
