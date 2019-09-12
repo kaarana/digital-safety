@@ -1,3 +1,3 @@
 # media
 
-This directory holds the media for this repository.
+This directory contains media for the "Digital Safety Hygiene" document.
